@@ -1,1 +1,1 @@
-# IMDB_CLONE
+# IMDB_CLONE using HTML, CSS and JavaScipt
